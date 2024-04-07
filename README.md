@@ -170,12 +170,12 @@ No dupliocate values were present in both the dataset.
 Outliers were present in some of the columns. plotted boxplot to locate outliers.
 - **Train dataset**
 ![5](https://github.com/Devika-K-M-15/Supply_Chain_Management/blob/main/Visuals/Outliers%201.png)
-
+- 
 ![6](https://github.com/Devika-K-M-15/Supply_Chain_Management/blob/main/Visuals/Outliers%202.png)
 
 - **Test dataset**
 ![7](https://github.com/Devika-K-M-15/Supply_Chain_Management/blob/main/Visuals/Outliers%201_test.png)
-
+- 
 ![8](https://github.com/Devika-K-M-15/Supply_Chain_Management/blob/main/Visuals/Outliers%202_test.png)
 
 Determined the count of outliers in every column. Among them, the 'flood_proof' and 'flood_impacted' columns, each containing only two distinct values, exhibit significant disparities in their value distributions and lack correlation. one of the unique values is considered as outlier due to its significantly lower proportion. Consequently, both of these columns were removed from the dataset.
