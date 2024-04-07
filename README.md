@@ -126,24 +126,26 @@ Among the 25 columns, null values are present in three columns. These columns co
 
 % of null values in eachg column:
 
-workers_num(4.01 %)
-wh_est_year(47.29 %)
-approved_wh_govt_certificate(3.6 %)
+workers_num(4.01 %)                 
+wh_est_year(47.29 %)               
+approved_wh_govt_certificate(3.6 %)         
 
- **Plot of null values in test dataset**
+**Plot of null values in test dataset**
 ![2](https://github.com/Devika-K-M-15/Supply_Chain_Management/blob/main/Visuals/Null%20Values_test.png)
 
 % of null values in eachg column:
 
-workers_num(4.01 %)
-wh_est_year(47.29 %)
-approved_wh_govt_certificate(3.6 %)
+workers_num(3.8 %)           
+wh_est_year(48.56 %)          
+approved_wh_govt_certificate(3.73 %)             
 
 
 **workers_num :**
  * numerical column
  * positively skewed
  Filled null values with median.
+
+
 - **Train dataset**
 ![3]()
 - **Test dataset**
@@ -206,7 +208,7 @@ Relationship between other features and target variable Product weight
 - **No. of workers**
 ![16](https://github.com/Devika-K-M-15/Supply_Chain_Management/blob/main/Visuals/DA-8.png)
 
--**Warehouse capacity size & Transport issue**
+- **Warehouse capacity size & Transport issue**
 ![17](https://github.com/Devika-K-M-15/Supply_Chain_Management/blob/main/Visuals/DA-9.png)
 
 - **Competitor_in_mkt**
