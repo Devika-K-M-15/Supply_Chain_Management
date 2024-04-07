@@ -149,9 +149,9 @@ approved_wh_govt_certificate(3.73 %)
 
 
 - **Train dataset**
-![3]()
+![3](https://github.com/Devika-K-M-15/Supply_Chain_Management/blob/main/Visuals/workers_num.png)
 - **Test dataset**
-![4]()
+![4](https://github.com/Devika-K-M-15/Supply_Chain_Management/blob/main/Visuals/workers_num_test.png)
 
 
 **wh_est_year :**
