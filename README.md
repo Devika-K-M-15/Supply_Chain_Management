@@ -76,7 +76,7 @@ wh_owner_type                       2
 electric_supply                     2
 
 
-* No. of unique values in each column for test dataset:
+* No. of unique values in each column for test dataset:           
 Unnamed: 0                      5529          
 Ware_house_ID                   5529   
 WH_Manager_ID                   5529         
@@ -250,6 +250,6 @@ Relationship between other features and target variable Product weight
 ![25](https://github.com/Devika-K-M-15/Supply_Chain_Management/blob/main/Visuals/Model%20comparison.png)
 
 - **Evaluation Matrix**
-![26]()
+![26](https://github.com/Devika-K-M-15/Supply_Chain_Management/blob/main/Visuals/model_evaluation.png)
 
  - Gradient Boosting Regression Model outperformed the others consistently across all metrics.
