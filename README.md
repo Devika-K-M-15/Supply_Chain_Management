@@ -77,31 +77,31 @@ electric_supply                     2
 
 
 * No. of unique values in each column for test dataset:
-Unnamed: 0                      5529
-Ware_house_ID                   5529
-WH_Manager_ID                   5529
-product_wg_ton                  2946
-retail_shop_num                 2891
-dist_from_hub                    217
-distributor_num                   56
-workers_num                       55
-storage_issue_reported_l3m        37
-govt_check_l3m                    32
-wh_est_year                       28
-num_refill_req_l3m                 9
-Competitor_in_mkt                  9
-wh_breakdown_l3m                   7
-WH_regional_zone                   6
-transport_issue_l1y                6
-approved_wh_govt_certificate       5
-zone                               4
-WH_capacity_size                   3
-electric_supply                    2
-temp_reg_mach                      2
-flood_impacted                     2
-Location_type                      2
-wh_owner_type                      2
-flood_proof                        2
+Unnamed: 0                      5529          
+Ware_house_ID                   5529   
+WH_Manager_ID                   5529         
+product_wg_ton                  2946             
+retail_shop_num                 2891     
+dist_from_hub                    217         
+distributor_num                   56         
+workers_num                       55      
+storage_issue_reported_l3m        37          
+govt_check_l3m                    32     
+wh_est_year                       28     
+num_refill_req_l3m                 9     
+Competitor_in_mkt                  9         
+wh_breakdown_l3m                   7                       
+WH_regional_zone                   6                     
+transport_issue_l1y                6              
+approved_wh_govt_certificate       5                   
+zone                               4               
+WH_capacity_size                   3            
+electric_supply                    2                
+temp_reg_mach                      2              
+flood_impacted                     2                
+Location_type                      2              
+wh_owner_type                      2               
+flood_proof                        2    
 
 #
 
@@ -124,7 +124,7 @@ Among the 25 columns, null values are present in three columns. These columns co
  **Plot of null values in train dataset**
 ![1](https://github.com/Devika-K-M-15/Supply_Chain_Management/blob/main/Visuals/Null%20Values.png)
 
-% of null values in eachg column:
+% of null values in each column:
 
 workers_num(4.01 %)                 
 wh_est_year(47.29 %)               
@@ -133,7 +133,7 @@ approved_wh_govt_certificate(3.6 %)
 **Plot of null values in test dataset**
 ![2](https://github.com/Devika-K-M-15/Supply_Chain_Management/blob/main/Visuals/Null%20Values_test.png)
 
-% of null values in eachg column:
+% of null values in each column:
 
 workers_num(3.8 %)           
 wh_est_year(48.56 %)          
@@ -171,7 +171,7 @@ Outliers were present in some of the columns. plotted boxplot to locate outliers
 
 ![6](https://github.com/Devika-K-M-15/Supply_Chain_Management/blob/main/Visuals/Outliers%202.png)
 
--**Test dataset**
+- **Test dataset**
 ![7](https://github.com/Devika-K-M-15/Supply_Chain_Management/blob/main/Visuals/Outliers%201_test.png)
 
 ![8](https://github.com/Devika-K-M-15/Supply_Chain_Management/blob/main/Visuals/Outliers%202_test.png)
