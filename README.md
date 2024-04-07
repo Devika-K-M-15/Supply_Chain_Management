@@ -224,7 +224,7 @@ Relationship between other features and target variable Product weight
 
 - **Distance from hub**
 ![21](https://github.com/Devika-K-M-15/Supply_Chain_Management/blob/main/Visuals/DA-13.png)
-
+- **:**
 ![22](https://github.com/Devika-K-M-15/Supply_Chain_Management/blob/main/Visuals/DA-14.png)
 
 - **Retail shop number**
