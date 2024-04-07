@@ -121,7 +121,6 @@ These three columns each contain entirely distinct values. In the context of thi
 ### 2. Missing values
 Among the 25 columns, null values are present in three columns. These columns correspond to the number of workers in the warehouse (workers_num), the year of warehouse establishment (wh_est_year), and the grade of government certificate approved for the warehouse (approved_wh_govt_certificate).
 
-
 **Plot of null values in train dataset**
 ![1](https://github.com/Devika-K-M-15/Supply_Chain_Management/blob/main/Visuals/Null%20Values.png)
 
